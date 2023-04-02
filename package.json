@@ -1,0 +1,23 @@
+{
+  "name": "resumai",
+  "version": "1.0.0",
+  "description": "An AI driven resume building assistant.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mvrkvincent/resumAI.git"
+  },
+  "keywords": [
+    "AI",
+    "Resume"
+  ],
+  "author": "mvrk.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mvrkvincent/resumAI/issues"
+  },
+  "homepage": "https://github.com/mvrkvincent/resumAI#readme"
+}
